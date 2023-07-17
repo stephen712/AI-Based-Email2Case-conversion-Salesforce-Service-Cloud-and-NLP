@@ -1,0 +1,2 @@
+# AI-Based-Email2Case-conversion-Salesforce-Service-Cloud-and-NLP
+An NLP-powered email to case solution using Salesforce and node.js. Performs AI tasks like Categorizes emails into desired categories,Sentiment analysis, entities, languages,key phrases, etc.. Demonstrates integration with Service Cloud and Omni-Channel for skills-based routing. Utilizes Flow for streamlined customer service and case management
