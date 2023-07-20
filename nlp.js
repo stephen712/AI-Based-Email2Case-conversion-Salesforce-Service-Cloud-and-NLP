@@ -733,7 +733,7 @@ let conn = new jsforce.Connection({
 const username = 'aiemailtocase@dxc.com';
 const password = 'Salesforce@123458k3vXh5twsSTQyXR3XCTYhu7T';
 
-/*
+
 conn.login(username, password, (err, res) => {
   if (err) {
     console.error(err);
@@ -759,7 +759,7 @@ conn.login(username, password, (err, res) => {
     });
     
   });
-});*/
+});
 
 
 
